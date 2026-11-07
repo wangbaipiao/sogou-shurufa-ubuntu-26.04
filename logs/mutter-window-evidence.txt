@@ -1,0 +1,7 @@
+== entry state (预编辑阶段) ==
+ID=12582916 NAME=cpis-panel-service   Absolute upper-left X:  866   Absolute upper-left Y:  672   Width: 205   Height: 30   Map State: IsViewable 
+ID=12582958 NAME=cpis-panel-service   Absolute upper-left X:  329   Absolute upper-left Y:  385   Width: 575   Height: 76   Map State: IsViewable 
+WID=12582958
+== entry state (空格后) ==
+你好
+ID=12582916 NAME=cpis-panel-service   Absolute upper-left X:  866   Absolute upper-left Y:  672   Width: 205   Height: 30   Map State: IsViewable 

@@ -1,0 +1,6 @@
+[2026-10-28 02:58:11.333] [debug] Taotics: [/build/cpis-XkRyhw/cpis-10.0.9.0.6/src/ime_ui/WindowIme.cpp,1053@88|136695385770368] ui TouchDown  do KeyDown UpdatePage end 
+[2026-10-28 02:58:11.334] [debug] Taotics: [/build/cpis-XkRyhw/cpis-10.0.9.0.6/src/ime_ui/WindowIme.cpp,1074@88|136695385770368] ui TouchUp  do UpdatePage end 
+[2026-10-28 02:58:11.356] [debug] Taotics: [/build/cpis-XkRyhw/cpis-10.0.9.0.6/src/ime_ui/WindowIme.cpp,1053@88|136695385770368] ui TouchDown  do KeyDown UpdatePage end 
+[2026-10-28 02:58:11.356] [debug] Taotics: [/build/cpis-XkRyhw/cpis-10.0.9.0.6/src/ime_ui/WindowIme.cpp,1074@88|136695385770368] ui TouchUp  do UpdatePage end 
+[2026-10-28 02:58:11.360] [debug] Taotics: [/build/cpis-XkRyhw/cpis-10.0.9.0.6/src/ime_ui/WindowIme.cpp,114@88|136695385770368] ===========*********=======Move  wndname= status  position= 866, 672 
+[2026-10-28 02:58:11.610] [debug] Taotics: [/build/cpis-XkRyhw/cpis-10.0.9.0.6/src/ime_ui/WindowIme.cpp,114@88|136695385770368] ===========*********=======Move  wndname= status  position= 866, 672 

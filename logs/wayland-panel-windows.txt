@@ -1,0 +1,3 @@
+      4 wndname= softkeyboard
+      4 wndname= status
+      4 wndname= t9keyboard

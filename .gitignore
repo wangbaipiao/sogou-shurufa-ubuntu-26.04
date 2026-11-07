@@ -1,0 +1,27 @@
+# 本仓库不包含专有二进制；脚本运行时才从镜像下载
+*.deb
+*.tar.gz
+*.xwd
+*.pnm
+*.core
+*.crash
+/rootfs/
+/shots/
+/debs/
+/rel/
+
+# Python
+__pycache__/
+*.pyc
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# 测试运行时产物
+/entry-state.txt
+/state.txt
+/cand*.png
+/tmp/
